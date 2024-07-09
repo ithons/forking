@@ -1,2 +1,3 @@
-# forking
-learn to fork
+# RSG project
+Ready, Set, Go!
+
